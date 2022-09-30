@@ -1,2 +1,20 @@
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
-To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
+Git commands
+
+git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+create a clone of your repository
+
+git push
+git push origin main
+pushes all your commits
+
+git add .
+adds all your modified files
+
+git commit -m "A message describing what you have done to make this snapshot different"
+commits your added files
+
+git status
+git log
+
+--The basic Git syntax is "program | action | destination"--
+
